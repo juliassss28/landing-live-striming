@@ -1,0 +1,23 @@
+{
+  "name": "sass-live-streaming",
+  "version": "1.0.0",
+  "description": "landing page",
+  "source": "index.html",
+  "scripts": {
+    "sass:watch": "sass --style=expanded --watch styles:dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliassss28/landing-live-striming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliassss28/landing-live-striming/issues"
+  },
+  "homepage": "https://github.com/juliassss28/landing-live-striming#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0",
+    "sass": "^1.93.2"
+  }
+}
